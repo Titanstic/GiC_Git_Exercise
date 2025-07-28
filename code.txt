@@ -1,1 +1,1 @@
-"Edit from develop branch"    # overwrite same part
+"Edit from master branch"     # overwrite same part
